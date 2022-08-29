@@ -8,10 +8,9 @@
 
 /* animaciones  */
 #logo{
-    animation:transparencia 3s;
+    animation:transparencia 10s;
     animation-iteration-count: infinite;
     animation-timing-function:ease-out;
-    animation-duration: 10s;
     animation-delay: 2s;
     transform: scale(1.2,1.2);
     
